@@ -1,3 +1,6 @@
+Yannick Lansink
+Github User ID: 76790689
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
